@@ -7,7 +7,7 @@ class BinarySearchTest(TestCase):
         self.assertIsNone(binary_search([], 1))
 
     def test_value_is_not_present(self):
-        self.assertIsNone(binary_search([1,2,3,4,5,6], 7))
+        self.assertIsNone(binary_search(range(1, 7), 7))
 
     def test_value_is_present(self):
         self.assertEqual(binary_search(range(1,101), 100), 99)
