@@ -1,11 +1,11 @@
 """ 
-Here we have a simple selection sort implementation.
+Here we have a simple Selection Sort implementation.
 
 1 - Get smallest value from array
 2 - Add it to the new array
 3 - Return the sorted array
 
-Complexity: Selection Sort has complexity BigO(N^2)
+- Time Complexity: BigO(N^2)
 """
 
 

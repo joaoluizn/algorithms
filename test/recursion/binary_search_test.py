@@ -1,4 +1,4 @@
-from unittest import TestCase, main
+from unittest import TestCase
 from src.recursion.binary_serach import binary_search
 
 class BinarySearchRecursionTest(TestCase):

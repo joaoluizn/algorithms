@@ -1,4 +1,4 @@
-from unittest import TestCase, main
+from unittest import TestCase
 from src.binary_search import binary_search
 
 class BinarySearchTest(TestCase):

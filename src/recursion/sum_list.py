@@ -1,4 +1,4 @@
-""" Divide to Conquer Sum list using Recursion """
+""" Divide to conquer Sum list using Recursion """
 
 def sum_list(list):
     sum = 0

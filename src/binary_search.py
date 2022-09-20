@@ -1,4 +1,7 @@
-""" Binary Search Implementation """
+"""
+- Binary Search Implementation
+- Time Complexity: BigO(LogN)
+"""
 
 def binary_search(list, target):
     baixo = 0

@@ -1,3 +1,5 @@
+""" Binary Search Using Recursion - Divide to Conquer """
+
 
 def binary_search(list, target):
     valor = None
